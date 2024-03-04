@@ -41,6 +41,6 @@ function Nav() {
             </nav>
         </header>
     );
-}
+} 
 
 export default Nav;
